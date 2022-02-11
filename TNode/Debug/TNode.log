@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\s20380462\source\repos\TNode\TNode\Source.cpp(26,11): error C2760: синтаксическая ошибка: непредвиденный токен "идентификатор"; требуется ";"
+C:\Users\s20380462\source\repos\TNode\TNode\Source.cpp(64): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "TList<T>"
+C:\Users\s20380462\source\repos\TNode\TNode\Source.cpp(40,12): error C2760: синтаксическая ошибка: непредвиденный токен "идентификатор"; требуется ";"
+C:\Users\s20380462\source\repos\TNode\TNode\Source.cpp(55,12): error C2760: синтаксическая ошибка: непредвиденный токен "идентификатор"; требуется ";"
